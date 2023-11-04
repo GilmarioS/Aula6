@@ -4,7 +4,7 @@
 
 # Gerando a Documentação
 
-<a href="https://ibb.co/w4XydK0"><img src="https://i.ibb.co/QMR9J6b/Aula6-Codumentando-API.gif" alt="Aula6-Codumentando-API" border="0"></a>
+<img src="/Aula6 Codumentando API .gif">
 
 
 Este projeto é uma API Restful desenvolvida com Springdoc para definir o apredizado em  documentação de uma API.
