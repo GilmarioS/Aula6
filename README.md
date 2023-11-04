@@ -1,6 +1,11 @@
 
 # Aula06 - Projeto API Restful com Documentação
 
+
+# Gerando a Documentação
+
+<img src="https://i.ibb.co/QMR9J6b/Aula6-Codumentando-API.gif" alt="Aula6-Codumentando-API" border="0">
+
 Este projeto é uma API Restful desenvolvida com Springdoc para definir o apredizado em  documentação de uma API.
 
 ## Visão Geral
