@@ -20,6 +20,8 @@ A API Aula06 é um projeto para demonstrar a criação de uma API Restful com Sp
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Springdoc](https://springdoc.org/)
 - [Maven](https://maven.apache.org/)
+- [Spring Tools Suit 4](https://spring.io/tools)
+- [IDE Eclipse](https://eclipseide.org/)
 
 ## Instalação e Execução
 
